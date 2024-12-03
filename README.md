@@ -51,7 +51,7 @@ Functional Requirements define what the system should do, describing the system'
 
 Non-Functional Requirements
 Non-Functional Requirements describe how the system should behave, focusing on quality attributes such as performance, security, usability, and reliability.
-* The system shall respond to user queries within 2 seconds.
+* The system shall respond to user queries within 24hours.
 * The system shall ensure the security and confidentiality of user data.
 * The system shall be accessible on desktop and mobile devices.
 * The system shall be available 24/7, with a maximum downtime of 1 hour per month.
