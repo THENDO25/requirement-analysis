@@ -38,6 +38,23 @@ The following are the key activities involved in Requirement Analysis:
 * Requirement Analysis and Modeling: Examining and analyzing the documented requirements to identify relationships, dependencies, and potential issues, and creating models like use case diagrams and data flow diagrams to visualize the requirements.
 * Requirement Validation: Verifying and validating the requirements to ensure they are complete, consistent, accurate, and meet the stakeholders' needs and expectations, and obtaining formal approval from stakeholders.
 
+# Types of Requirements
+
+Requirements can be categorized into two main types:
+
+Functional Requirements
+Functional Requirements define what the system should do, describing the system's behavior, functionality, and interactions with users and other systems.
+* The system shall allow users to search for available rooms based on dates and room type.
+* The system shall enable users to book a room and provide payment details.
+* The system shall send a confirmation email to the user upon successful booking.
+* The system shall allow administrators to manage room inventory and pricing.
+
+Non-Functional Requirements
+Non-Functional Requirements describe how the system should behave, focusing on quality attributes such as performance, security, usability, and reliability.
+* The system shall respond to user queries within 2 seconds.
+* The system shall ensure the security and confidentiality of user data.
+* The system shall be accessible on desktop and mobile devices.
+* The system shall be available 24/7, with a maximum downtime of 1 hour per month.
 
 
 
