@@ -15,11 +15,13 @@ The importance of Requirement Analysis cannot be overstated.
 * Provides a clear foundation for the design, development, testing, and maintenance of the software system
 
 # Requirement Analysis in Software Development
-# What is Requirement Analysis?
+What is Requirement Analysis?
 
 Requirement Analysis is a crucial phase in the Software Development Lifecycle (SDLC) that focuses on defining, documenting, and validating the requirements of a software system. It involves a systematic approach to gathering, analyzing, and specifying the functional and non-functional requirements of the system.
+
 Why is Requirement Analysis Important?
-Requirement Analysis is critical in the SDLC for several reasons:
+
+Requirement Analysis is critical in the SDLC because it:
 1. Prevents Project Failure
 Requirement Analysis helps prevent project failure by ensuring that the software system meets the stakeholders' needs and expectations. By gathering and documenting requirements accurately, developers can avoid misunderstandings and miscommunications that can lead to project failure.
 2. Reduces Costs and Saves Time
