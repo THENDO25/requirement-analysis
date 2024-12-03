@@ -56,5 +56,33 @@ Non-Functional Requirements describe how the system should behave, focusing on q
 * The system shall be accessible on desktop and mobile devices.
 * The system shall be available 24/7, with a maximum downtime of 1 hour per month.
 
+# Use Case Diagrams
+
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that visualizes the interactions between users and the system. They help to:
+(1) Identify the system's functional requirements
+(2)Model the system's behavior
+(3)Communicate the system's functionality to stakeholders
+
+# Benefits of Use Case Diagrams
+
+(1)Improve understanding of the system's requirements
+(2)Enhance communication among stakeholders and developers
+(3)Identify potential issues and dependencies
+(4)Provide a foundation for system design and testing
+
+# Use Case Diagram for the Booking System
+
+Actors:
+* User
+* Administrator
+* Payment Gateway
+* 
+Use Cases:
+* Search for available rooms
+* Book a room
+* Make payment
+* Manage room inventory
+* View booking history
+
 
 
