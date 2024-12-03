@@ -84,5 +84,29 @@ Use Cases:
 * Manage room inventory
 * View booking history
 
+# Acceptance Criteria
+Acceptance Criteria are the conditions that a software system or application must meet to satisfy the stakeholders' needs and expectations. They are used to verify that the system meets the specified requirements and works as expected.
+
+# Importance of Acceptance Criteria
+* Ensures that the system meets the stakeholders' needs and expectations
+* Provides a clear understanding of what the system should do and how it should behave
+* Helps to identify and address potential issues early on
+* Enables effective testing and validation of the system
+* 
+# Example of Acceptance Criteria for the Checkout Feature
+* The system shall display the booking summary, including room details, dates, and total cost.
+* The system shall allow the user to enter payment details, including credit card number, expiration date, and security code.
+* The system shall validate the payment details and display an error message if the details are invalid.
+* The system shall process the payment and update the booking status to "Confirmed" upon successful payment.
+* The system shall send a confirmation email to the user with the booking details and payment receipt.
+* The system shall display a confirmation message to the user with the booking details and payment receipt.
+  
+# Benefits of Acceptance Criteria
+* Ensures that the system meets the stakeholders' needs and expectations
+* Provides a clear understanding of what the system should do and how it should behave
+* Helps to identify and address potential issues early on
+* Enables effective testing and validation of the system
+  
+By establishing and using acceptance criteria, developers can ensure that the system meets the specified requirements and works as expected, ultimately delivering a high-quality software system that meets the stakeholders' needs and expectations.
 
 
