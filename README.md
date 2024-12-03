@@ -10,9 +10,9 @@ The importance of Requirement Analysis cannot be overstated.
 
 * It ensures that the software system meets the stakeholders' needs and expectations
 * Reduces the risk of project failure due to misunderstood or missing requirements
-*Saves time and resources by identifying and addressing potential issues early on
-*Improves communication among stakeholders, developers, and testers
-*Provides a clear foundation for the design, development, testing, and maintenance of the software system
+* Saves time and resources by identifying and addressing potential issues early on
+* Improves communication among stakeholders, developers, and testers
+* Provides a clear foundation for the design, development, testing, and maintenance of the software system
 
 
 
