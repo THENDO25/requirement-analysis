@@ -58,10 +58,7 @@ Non-Functional Requirements describe how the system should behave, focusing on q
 
 # Use Case Diagrams
 
-Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that visualizes the interactions between users and the system. They help to:
-(1) Identify the system's functional requirements
-(2)Model the system's behavior
-(3)Communicate the system's functionality to stakeholders
+![Use Case Diagram](alx-booking-uc.png)
 
 # Benefits of Use Case Diagrams
 
